@@ -2,7 +2,7 @@
 
   <h3 align="center">Slider Effects Using HTML CSS And Javascript</h3>
   <br />
-      <img src="" alt="Project Banner">
+      <img src="https://github.com/Rotaralexc/Responsive-Slider-2/blob/3e585e1e825d18b1dbec446e30b7174863df72ab/ResponsiveSlider2.png" alt="Project Banner">
   <br />
 
   <h3 align="center">DEMO</h3>
